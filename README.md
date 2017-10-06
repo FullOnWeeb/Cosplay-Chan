@@ -1,2 +1,2 @@
 # Cosplay-Chan
-Hi.
+GET /users/:username
